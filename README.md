@@ -176,7 +176,7 @@ The analysis also shows that the dataset contains strong class-specific keywords
 The complete workflow is contained in:
 
 ```text
-notebooks/GBV_rerun_Preprocessing_Modeling_with_Part3.ipynb
+notebook/GBV_rerun_Preprocessing_Modeling_with_Part3.ipynb
 ```
 
 The notebook contains:
@@ -231,7 +231,7 @@ pip install -r requirements.txt
 
 Google Colab is recommended because the notebook includes TensorFlow, PyTorch and DistilBERT experiments.
 
-1. Open `notebooks/GBV_rerun_Preprocessing_Modeling_with_Part3.ipynb` in Google Colab.
+1. Open `notebook/GBV_rerun_Preprocessing_Modeling_with_Part3.ipynb` in Google Colab.
 2. Go to **Runtime > Change runtime type**.
 3. Select a GPU runtime if available.
 4. Run the notebook from the first cell.
@@ -258,7 +258,7 @@ jupyter notebook
 Open:
 
 ```text
-GBV_rerun_Preprocessing_Modeling_with_Part3.ipynb
+notebook/GBV_rerun_Preprocessing_Modeling_with_Part3.ipynb
 ```
 
 If running locally, the Google Colab upload section may need to be replaced with direct file loading:
