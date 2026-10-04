@@ -26,7 +26,14 @@ The project therefore compares different modelling approaches using the same pre
 
 ## Dataset
 
-The training dataset contains **39,650 labelled tweets**.
+## Dataset
+
+The dataset files are stored in the `data/` directory:
+
+```text
+data/
+├── Train.csv
+└── Test.csv
 
 The main columns are:
 
